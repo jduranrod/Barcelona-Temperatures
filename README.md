@@ -30,7 +30,7 @@ El projecte processa dades meteorològiques de diverses estacions a Barcelona pe
 1. Genereu els GIFs:
    Executar el notebook
     ```sh
-    python src/PR2_jduran.ipynb
+    src/PR2_jduran.ipynb
     ```
     
 ## Contribució

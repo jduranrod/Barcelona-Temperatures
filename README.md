@@ -52,3 +52,8 @@ barcelona-temperatures/
 ├── README.md
 └── requirements.txt
 
+
+
+# GIFs
+
+Les visualitzacions creades es troben a la carpeta GFs al següent enllaç: https://drive.google.com/drive/folders/108umHzyg7XmEC1YrIiyi1T15thpJMNhv?usp=sharing

@@ -43,17 +43,20 @@ Aquest projecte està llicenciat sota la Llicència MIT.
 
 ## Estructura del Repositori
 
+```plaintext
 barcelona-temperatures/
 ├── data/
-│ └── README.md
+│   └── README.md
 ├── src/
-│ ├── PR2_PR2_jduran.ipynb
+│   ├── PR2_jduran.ipynb
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
+
 
 
 
 # GIFs
 
-Les visualitzacions creades es troben a la carpeta GFs al següent enllaç: https://drive.google.com/drive/folders/108umHzyg7XmEC1YrIiyi1T15thpJMNhv?usp=sharing
+Les visualitzacions creades es troben a la carpeta GIFs al següent enllaç: https://drive.google.com/drive/folders/108umHzyg7XmEC1YrIiyi1T15thpJMNhv?usp=sharing
